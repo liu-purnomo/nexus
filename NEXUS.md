@@ -143,3 +143,4 @@ Kami telah memetakan jalan, dan sekarang, kami mengundang Anda untuk menjadi bag
 * **Berkontribusi:** Baik sebagai pengguna awal, pembuat *plugin* inovatif, atau dokumentator yang teliti—setiap kontribusi Anda sangat berarti.
 
 Mari bersama-sama, kita bangun **ORM yang benar-benar kita butuhkan** untuk masa depan pengembangan web.
+
